@@ -1,0 +1,6 @@
+#include<iostream.h>
+int main() 
+{ 
+ Cout<<"hello world";
+ Return 0;
+}
